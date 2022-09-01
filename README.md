@@ -1,5 +1,5 @@
 ### Hey, I'm Matteo
-I'm a current 3rd year student majoring in Computer Science at ASU. I'll mostly be putting personal projects on here, but occasionally an assignment or two may pop up as well. 
+I'm a current 4th year student majoring in Computer Science at ASU. I'll mostly be putting personal projects on here, but occasionally an assignment or two may pop up as well. 
 <!--
 **mcdgl/mcdgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
